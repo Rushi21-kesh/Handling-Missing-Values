@@ -1,4 +1,6 @@
 # Handling-Missing-Values
+![image](https://user-images.githubusercontent.com/61430438/102975994-ea7bfc80-4526-11eb-8bb1-dd5e36fcef4e.png)
+
 ## Missing data, also known as missing values, is where some of the observations in a data set are blank.
 ex. 
 - At age feature womens hesitate to put down their age
