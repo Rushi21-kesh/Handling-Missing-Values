@@ -39,3 +39,5 @@ ex.
     4. End of Distribution imputation
     5. Arbitrary imputation
     6. Frequent categories imputation   
+#### Note we perform all this techniques on 'Titanic' dataset, you can download it from :
+- [Titanic Datset](https://github.com/Rushi21-kesh/Handling-Missing-Values/blob/main/Titanic.csv)
