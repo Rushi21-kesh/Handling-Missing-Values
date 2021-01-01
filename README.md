@@ -33,8 +33,8 @@ ex.
     
 ## All techniques of handling Missing values
 
-    1. Mean/Mode/Median replacement
-    2. Random sample imputation
+    1. [Mean/Mode/Median replacement](https://github.com/Rushi21-kesh/Handling-Missing-Values/blob/main/1.%20Mean%20Median%20Mode%20imputation.ipynb)
+    2. [Random sample imputation](https://github.com/Rushi21-kesh/Handling-Missing-Values/blob/main/2.%20Random%20Sample%20Imputation.ipynb)
     3. Capturing NAN values with a new feature
     4. End of Distribution imputation
     5. Arbitrary imputation
